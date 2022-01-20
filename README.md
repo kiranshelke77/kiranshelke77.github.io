@@ -1,2 +1,2 @@
-# kiranshelke.github.io
+# kiranshelke
 Personal Website
